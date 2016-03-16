@@ -7,6 +7,7 @@ public class JavaGitTestMain {
 		
 		System.out.println("Java Git Test Main");
 
+		System.out.println("Java Git Test Main Again!!!");
 	}
 
 }
